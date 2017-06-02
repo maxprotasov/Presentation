@@ -1,14 +1,17 @@
 .custom-images {
     margin-top: 80px;
 }
+
 .grid-concepts {
     width: 700px;
     height: 500px;
     margin-left: 200px;
 }
+
 .slider-list {
     margin-left: -90px;
 }
+
 .fox {
     width: 100%;
     height: 100%;
@@ -18,6 +21,7 @@
 
     text-align: right !important;
 }
+
 .first-text {
     margin-right: -70px !important;
     text-align: right !important;
