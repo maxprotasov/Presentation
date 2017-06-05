@@ -26,3 +26,7 @@
     margin-right: -70px !important;
     text-align: right !important;
 }
+.company {
+    box-sizing: border-box;
+    padding-bottom: 500px;
+}
